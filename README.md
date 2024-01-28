@@ -1,3 +1,3 @@
 # AzureFunctTest
 
-This repository was created to test azure functions.
+This repository was created to test Azure functions.
